@@ -31,8 +31,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Stroud News & Journal: [These are the train stations with the most bicycle thefts](https://www.stroudnewsandjournal.co.uk/news/17815670.train-stations-bicycle-thefts/) *5 August 2019*
 * Eagle Radio: [Surrey and Hampshire train station bike theft hot spots](https://www.eagleradio.co.uk/news/local-news/2925866/surrey-and-hampshire-train-station-bike-theft-hot-spots/) *5 August 2019*
 
-
-The story was also used by 
+The story was also used by Look North (East Yorkshire and Lincolnshire), BBC Radio Cornwall, BBC Radio Lancashire, BBC Radio Lincolnshire, BBC Surrey, BBC Radio Cambridgeshire, BBC Hereford & Worcester, BBC Sussex and BBC Radio Oxford 
 
 ## Visualisation
 
