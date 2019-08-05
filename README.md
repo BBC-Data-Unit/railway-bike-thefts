@@ -1,5 +1,7 @@
 # Railway bicycle theft hotspots revealed
 
+![](https://ichef.bbci.co.uk/news/624/cpsprodpb/606D/production/_108158642_e111bbb9-0d02-4012-a624-49ddb2dc8167.jpg)
+
 In August 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-49154673) railway stations serving London's commuter belt remained a prime target for bike thieves.
 
 Across Great Britain, theft of bicycles from station property rose from 4,500 in 2016-17 to 6,400 last year, a rise of around 42%.
