@@ -30,6 +30,11 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Stevenage: The Comet: [Stevenage and Hitchin stations among UK's best for bike thieves](https://www.thecomet.net/news/stevenage-hitchin-letchworth-arlesey-stations-feature-in-british-transport-police-bike-theft-data-1-6196695) *5 August 2019*
 * Stroud News & Journal: [These are the train stations with the most bicycle thefts](https://www.stroudnewsandjournal.co.uk/news/17815670.train-stations-bicycle-thefts/) *5 August 2019*
 * Eagle Radio: [Surrey and Hampshire train station bike theft hot spots](https://www.eagleradio.co.uk/news/local-news/2925866/surrey-and-hampshire-train-station-bike-theft-hot-spots/) *5 August 2019*
+* Cambridgeshire Live: [Revealed: The Cambridgeshire train stations being targeted by bike thieves](https://www.cambridge-news.co.uk/news/cambridge-news/cambridge-north-cycle-theft-station-16699853) *5 August 2019*
+* Royston Crow: [Royston, Cambridge and Shepreth stations among the safest for bikes in the UK](https://www.royston-crow.co.uk/news/royston-and-cambridge-bike-theft-data-1-6196898) *5 August 2019*
+* The Herts Advertiser: [St Albans station has more bike thefts than any other in the UK](https://www.hertsad.co.uk/news/st-albans-and-harpenden-train-station-bike-theft-figures-1-6198789) *5 August 2019*
+* St Albans & Harpenden Review: [St Albans tops list of bike thefts at UK stations](https://www.stalbansreview.co.uk/news/17816756.st-albans-tops-list-bike-thefts-uk-stations/) *5 August 2019*
+* road.cc: [Great Britain's worst railway station for cycle theft named](https://road.cc/content/news/265115-great-britains-worst-railway-station-cycle-theft-named) *5 August 2019*
 
 The story was also used by Look North (East Yorkshire and Lincolnshire), BBC Radio Cornwall, BBC Radio Lancashire, BBC Radio Lincolnshire, BBC Surrey, BBC Radio Cambridgeshire, BBC Hereford & Worcester, BBC Sussex and BBC Radio Oxford 
 
