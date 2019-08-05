@@ -24,6 +24,12 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 The story was also used by 
 
+## Visualisation
+
+* Video: Tips of how to keep your bike safe at train stations and ways of locking it securely
+* Bar chart: Railway stations with the most bicycle thefts
+* Bar chart: Railway stations with most thefts per passenger
+
 ## Get the data 
 
 * [Railway bike thefts from 2016-19](https://docs.google.com/spreadsheets/d/1XWgZctywYXfhFxInBL4w49dM-704XRVDvkIcvezGlF4/edit#gid=0)
