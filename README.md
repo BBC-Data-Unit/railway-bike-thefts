@@ -46,7 +46,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * York: The Press: [33 per cent rise in bike thefts at York Station](https://www.yorkpress.co.uk/news/17817353.33-per-cent-rise-bike-thefts-york-station/) *6 August 2019*
 * YorkMix: [Cycle thefts at York Station up by a third](https://www.yorkmix.com/cycle-thefts-at-york-station-up-by-a-third/) *6 August 2019*
 
-The story was also used by Look North (East Yorkshire and Lincolnshire), BBC Coventry & Warwickshire, BBC Radio Cornwall, BBC Radio Lancashire, BBC Radio Lincolnshire, BBC Surrey, BBC Radio Cambridgeshire, BBC Hereford & Worcester, BBC Sussex and BBC Radio Oxford 
+The story was also used by Look North (East Yorkshire and Lincolnshire), BBC Coventry & Warwickshire, BBC Radio Cornwall, BBC Radio Lancashire, BBC Radio Lincolnshire, BBC Surrey, BBC Radio Cambridgeshire, BBC Hereford & Worcester, BBC Sussex, BBC Radio Oxford, BBC Berkshire, BBC Wiltshire and BBC Radio Kent 
 
 ## Visualisation
 
