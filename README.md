@@ -34,6 +34,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Royston Crow: [Royston, Cambridge and Shepreth stations among the safest for bikes in the UK](https://www.royston-crow.co.uk/news/royston-and-cambridge-bike-theft-data-1-6196898) *5 August 2019*
 * The Herts Advertiser: [St Albans station has more bike thefts than any other in the UK](https://www.hertsad.co.uk/news/st-albans-and-harpenden-train-station-bike-theft-figures-1-6198789) *5 August 2019*
 * St Albans & Harpenden Review: [St Albans tops list of bike thefts at UK stations](https://www.stalbansreview.co.uk/news/17816756.st-albans-tops-list-bike-thefts-uk-stations/) *5 August 2019*
+* Ipswich Star: [REVEALED: Scale of bike thefts from railway stations in Suffolk and Essex](https://www.ipswichstar.co.uk/news/bike-thefts-from-railway-stations-in-suffolk-and-north-essex-1-6198541) *5 August 2019*
+* Lancs Live: [Leyland and Lancaster named as worst stations for bike thefts in Lancashire](https://www.lancs.live/news/lancashire-news/leyland-lancaster-named-worst-stations-16667039) *5 August 2019*
+* Wilts and Gloucestershire Standard: [These are the train stations with the most bicycle thefts](https://www.wiltsglosstandard.co.uk/news/17815671.train-stations-bicycle-thefts/) *5 August 2019*
 * road.cc: [Great Britain's worst railway station for cycle theft named](https://road.cc/content/news/265115-great-britains-worst-railway-station-cycle-theft-named) *5 August 2019*
 
 The story was also used by Look North (East Yorkshire and Lincolnshire), BBC Radio Cornwall, BBC Radio Lancashire, BBC Radio Lincolnshire, BBC Surrey, BBC Radio Cambridgeshire, BBC Hereford & Worcester, BBC Sussex and BBC Radio Oxford 
