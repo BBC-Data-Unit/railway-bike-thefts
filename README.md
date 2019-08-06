@@ -37,7 +37,11 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Ipswich Star: [REVEALED: Scale of bike thefts from railway stations in Suffolk and Essex](https://www.ipswichstar.co.uk/news/bike-thefts-from-railway-stations-in-suffolk-and-north-essex-1-6198541) *5 August 2019*
 * Lancs Live: [Leyland and Lancaster named as worst stations for bike thefts in Lancashire](https://www.lancs.live/news/lancashire-news/leyland-lancaster-named-worst-stations-16667039) *5 August 2019*
 * Wilts and Gloucestershire Standard: [These are the train stations with the most bicycle thefts](https://www.wiltsglosstandard.co.uk/news/17815671.train-stations-bicycle-thefts/) *5 August 2019*
+
 * road.cc: [Great Britain's worst railway station for cycle theft named](https://road.cc/content/news/265115-great-britains-worst-railway-station-cycle-theft-named) *5 August 2019*
+* Portsmouth: The News: [Hampshire police deny organised gang of criminals is responsible for bike theft crisis at railway stations](https://www.portsmouth.co.uk/news/crime/hampshire-police-deny-organised-gang-of-criminals-is-responsible-for-bike-theft-crisis-at-railway-stations-1-9023603) *6 August 2019*
+* Chichester Observer: [Shock as train stations in Fareham and Fratton among the worst for bike thefts in UK](https://www.chichester.co.uk/news/crime/shock-as-train-stations-in-fareham-and-fratton-among-the-worst-for-bike-thefts-in-uk-1-9023527) *6 August 2019*
+* Daily Echo: [Christchurch Railway Station among worst in country for bike theft](https://www.bournemouthecho.co.uk/news/17817976.christchurch-railway-station-among-worst-country-bike-theft/) *6 August 2019*
 
 The story was also used by Look North (East Yorkshire and Lincolnshire), BBC Radio Cornwall, BBC Radio Lancashire, BBC Radio Lincolnshire, BBC Surrey, BBC Radio Cambridgeshire, BBC Hereford & Worcester, BBC Sussex and BBC Radio Oxford 
 
