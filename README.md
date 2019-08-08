@@ -47,6 +47,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * YorkMix: [Cycle thefts at York Station up by a third](https://www.yorkmix.com/cycle-thefts-at-york-station-up-by-a-third/) *6 August 2019*
 * West Sussex Gazette: [Chichester railway station ‘among worst in country for bike thefts’](https://www.westsussextoday.co.uk/news/crime/chichester-railway-station-among-worst-in-country-for-bike-thefts-1-9024189) *6 August 2019*
 * Portsmouth: The News: [Shock as train stations in Fareham and Fratton among the worst for bike thefts in UK](https://www.portsmouth.co.uk/news/crime/shock-as-train-stations-in-fareham-and-fratton-among-the-worst-for-bike-thefts-in-uk-1-9023527) *6 August 2019* 
+* Bedford Independent: [Bedford station has second highest number of bike thefts in the country](https://www.bedfordindependent.co.uk/bedford-station-has-second-highest-number-of-bike-thefts-in-the-country/) *7 August 2019*
+* This Is Wiltshire: [Huge rise in bicycle thefts from station](https://www.thisiswiltshire.co.uk/news/17823633.huge-rise-bicycle-thefts-station/) *8 August 2019*
 
 
 The story was also used by Look North (East Yorkshire and Lincolnshire), BBC Coventry & Warwickshire, BBC Radio Cornwall, BBC Radio Lancashire, BBC Radio Lincolnshire, BBC Surrey, BBC Radio Cambridgeshire, BBC Hereford & Worcester, BBC Sussex, BBC Radio Oxford, BBC Berkshire, BBC Wiltshire and BBC Radio Kent 
